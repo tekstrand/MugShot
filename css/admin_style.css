@@ -53,7 +53,7 @@
 
 .mugshot-frame:hover,
 .mugshot-active:not(.mugshot-textbox):not(.mugshot-done-button):not(.mugshot-delete) {
-  border:3px dashed white;
+  border: 2px dashed white;
 }
 
 .mugshot-active {
@@ -63,7 +63,6 @@
 .mugshot-textbox {
   background: white;
   color: black;
-  font-family: "arial-black";
   font-size: 16px;
   margin: 5px 0 0 0;
   max-width: 150px;
@@ -131,7 +130,6 @@
   color: black;
   cursor: pointer;
   display: none;
-  font-family: "arial-black";
   font-size: 16px;
   max-width: 150px;
   padding: 0 0 0 6px;

@@ -13,7 +13,7 @@
 
 .mugshot-frame:hover,
 .mugshot-active {
-  border:3px dashed white;
+  border: 2px dashed white;
 }
 
 .mugshot-active {
